@@ -76,13 +76,13 @@ function Services() {
         </a>
       </div>
 
-      <ul className="flex text-sm font-bold text-gray-700">
+      <ul className="flex text-sm font-bold text-gray-800">
         <li className="p-4 m-4 flex flex-wrap justify-center items-center cursor-pointer">
           <p className="rounded-full w-48 h-48 bg-blue-100"></p>
           <p className="w-full mt-8 text-center pl-8 pr-8">
             <span>واحد بازرگانی تأمین قطعات وتجهیزات الکترونیکی و مخابراتی</span>
           </p>
-          <p className="w-full text-gray-500 text-xs text-center pt-4">
+          <p className="w-full text-gray-500 text-xs text-center pt-4 font-normal">
             <span>در این واحد خدمات زیر صورت میگیرد</span>&nbsp;
             <span>طراحی و پشتیبانی توسط مهندسان ایرانی</span>
           </p>
@@ -92,7 +92,7 @@ function Services() {
           <p className="w-full mt-8 text-center pl-8 pr-8">
             <span>واحد طراحی، ساخت و تولید عناصر ماکروویوی و مخابراتی</span>
           </p>
-          <p className="w-full text-gray-500 text-xs text-center pt-4">
+          <p className="w-full text-gray-500 text-xs text-center pt-4 font-normal">
             <span>در این واحد خدمات زیر صورت میگیرد</span>&nbsp;
             <span>طراحی و پشتیبانی توسط مهندسان ایرانی</span>
           </p>
@@ -102,7 +102,7 @@ function Services() {
           <p className="w-full mt-8 text-center pl-8 pr-8">
             <span>واحد مونتاژ ( ماشینی و دستی )، انواع PCB</span>
           </p>
-          <p className="w-full text-gray-500 text-xs text-center pt-4">
+          <p className="w-full text-gray-500 text-xs text-center pt-4 font-normal">
             <span>در این واحد خدمات زیر صورت میگیرد</span>&nbsp;
             <span>طراحی و پشتیبانی توسط مهندسان ایرانی</span>
           </p>
@@ -112,7 +112,7 @@ function Services() {
           <p className="w-full mt-8 text-center pl-8 pr-8">
             <span>واحد تست و اندازه‌گیری</span>
           </p>
-          <p className="w-full text-gray-500 text-xs text-center pt-4">
+          <p className="w-full text-gray-500 text-xs text-center pt-4 font-normal">
             <span>در این واحد خدمات زیر صورت میگیرد</span>&nbsp;
             <span>طراحی و پشتیبانی توسط مهندسان ایرانی</span>
           </p>
