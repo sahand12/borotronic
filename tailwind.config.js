@@ -14,7 +14,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      sans: ['IranYekan'],
+      sans: ['IranYekan', 'Roboto'],
     },
   },
   variants: {
