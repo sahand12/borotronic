@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.2.1",
+    "autoprefixer": "^10.2.3",
+    "classnames": "^2.2.6",
     "next": "10.0.5",
+    "postcss": "^8.2.4",
+    "pure-react-carousel": "^1.27.6",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "sass": "^1.32.6"
   }
 }

@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,18 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.search-input::placeholder {
+  direction: rtl;
+}
+
+.caret-up:after {
+  content: "";
+  border-bottom: 12px solid #ffffff;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  position: absolute;
+  bottom: -1px;
+  left: 40px;
 }

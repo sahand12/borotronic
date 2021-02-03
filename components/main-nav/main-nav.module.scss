@@ -1,0 +1,18 @@
+.brMegaMenu {
+  position: relative;
+}
+.brMegaMenu_subMenu {
+  position: absolute;
+  left: 16rem;
+  z-index: 10;
+}
+
+.triangle {
+  width: 20px;
+  height: 20px;
+  color: white;
+  fill: white;
+  position: absolute;
+  top: -15px;
+  left: 35px;
+}

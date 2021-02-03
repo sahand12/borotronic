@@ -1,0 +1,15 @@
+.container {
+  overflow-x: hidden;
+  position: relative;
+
+  .innerContainer {
+    position: absolute;
+    transition: left;
+    transition-duration: 250ms;
+    transition-timing-function: ease-in;
+
+    > * {
+      float: left;
+    }
+  }
+}
